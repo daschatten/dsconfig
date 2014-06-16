@@ -75,6 +75,8 @@ if(!isset($params) OR !is_array($params))
 
 ```
 
+Add parameter configuration to 'protected/config/dsparams.php' (parameter configuration) and 'protected/config/dsdb.php' (database configuration). See 'protected/modules/dsconfig/extras' for examples.
+
 # Development
 
 ## Translation
